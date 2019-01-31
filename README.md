@@ -38,7 +38,25 @@ The directory structure emulates Rails MVC Framework.
 ======
 1. Map and Logic behind - Leon, Jin Yung
 2. Front End, Graphic - Garic
-3. Authentication - Nadia
+3. Authentication - Nadia |Done with devise | now working on auth github
 ......adding on later
+
+
+
+##To Do Before Run Prog
+========================
+1. Bundle Install
+2. Bundle Update
+
+
+
+## References
+==============
+1. Bootstrap | https://github.com/twbs/bootstrap-sass
+	- rename to scss file
+2. Authentication = use devise | https://github.com/plataformatec/devise
+	- generate User Model
+	- create pages/home controller
+
 
 

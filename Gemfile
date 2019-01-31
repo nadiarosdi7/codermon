@@ -60,3 +60,14 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# bootstrap 3.3.6
+gem 'bootstrap-sass'
+gem 'jquery-rails'
+
+# for authentication / user management
+gem 'devise', '~>4.2'
+
+# omniauth github
+# gem 'omniauth'
+# gem 'omniauth-github'
