@@ -47,6 +47,8 @@ The directory structure emulates Rails MVC Framework.
 ========================
 1. Bundle Install
 2. Bundle Update
+3. run server : rails s
+4. to access landing page in browser: localhost:3000 
 
 
 
@@ -57,6 +59,8 @@ The directory structure emulates Rails MVC Framework.
 2. Authentication = use devise | https://github.com/plataformatec/devise
 	- generate User Model
 	- create pages/home controller
+3. Done Auth with Github API
+
 
 
 
