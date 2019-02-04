@@ -60,6 +60,7 @@ The directory structure emulates Rails MVC Framework.
 	- generate User Model
 	- create pages/home controller
 3. Done Auth with Github API
+4. Toastr rails for notifications | https://github.com/tylergannon/toastr-rails
 
 
 

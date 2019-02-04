@@ -66,11 +66,14 @@ gem 'bootstrap-sass'
 gem 'jquery-rails'
 
 # for authentication / user management
-gem 'devise', '~>4.2'
+gem 'devise', '~> 4.2'
 
 # omniauth github
-gem 'omniauth', '~>1.6'
+gem 'omniauth', '~> 1.6'
 gem 'omniauth-github'
 
 #to secure API key secret
 gem 'figaro'
+
+#gem for notification message
+gem 'toastr-rails', '~> 1.0'
